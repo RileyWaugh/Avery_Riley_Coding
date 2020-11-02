@@ -1,0 +1,9 @@
+﻿  NB_Sequences.cpp
+  Sequence_Optimizations.cpp
+C:\Users\Riley\Documents\Visual Studio 2019\Projects\Avery_Riley_Coding\NeverBalancedSequences\NB_Sequences\NB_Sequences\Sequence_Optimizations.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Riley\Documents\Visual Studio 2019\Projects\Avery_Riley_Coding\NeverBalancedSequences\NB_Sequences\NB_Sequences\Sequence_Optimizations.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Riley\Documents\Visual Studio 2019\Projects\Avery_Riley_Coding\NeverBalancedSequences\NB_Sequences\NB_Sequences\Sequence_Optimizations.cpp(197,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Riley\Documents\Visual Studio 2019\Projects\Avery_Riley_Coding\NeverBalancedSequences\NB_Sequences\NB_Sequences\Sequence_Optimizations.cpp(371,85): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Riley\Documents\Visual Studio 2019\Projects\Avery_Riley_Coding\NeverBalancedSequences\NB_Sequences\NB_Sequences\Sequence_Optimizations.cpp(327,7): warning C4101: 'topnum': unreferenced local variable
+  Generating Code...
+  NB_Sequences.vcxproj -> C:\Users\Riley\Documents\Visual Studio 2019\Projects\Avery_Riley_Coding\NeverBalancedSequences\NB_Sequences\Debug\NB_Sequences.exe
