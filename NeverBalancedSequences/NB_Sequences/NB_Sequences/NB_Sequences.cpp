@@ -9,7 +9,10 @@ using namespace std;
 typedef unsigned int uint;
 
 
-/*void printVecUi(vector<uint> const &a)
+/*
+old printig stuff -- ignore
+
+void printVecUi(vector<uint> const &a)
 {
 
 	for (int i = 0; i < a.size(); i++)
@@ -39,9 +42,10 @@ bool checkList(const vector<uint> &tl)
 }*/
 
 
-void main1(uint sn)
+void main1(uint sn) // now defunct old driver function
 {
-	//Not much optimization here -- just using the "no jumping rule"
+	//Not much optimization here -- just using the "no jumping rule" 
+	// For now, see comments on restriction stuff -- this is all fairly modular, so it dshouldn't be too hard to interpret
 
 	uint symbolNum = sn;
 

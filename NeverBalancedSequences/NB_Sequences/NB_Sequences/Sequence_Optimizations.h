@@ -61,7 +61,7 @@ restriction_map getNewRestrictions(const vector<uint>& tl, uint sn, const vector
 restriction_map copyRelevantRestrictions(const restriction_map& large_rest, uint min_place);
 // copies a restriction_map, but only future restrictions. This is supposed to ease the time/space wasted when copying restrictions of previous indices.
 
-void combinePlaceRestrictions(uint& lpr, const uint& spr);
+void combinePlaceRestrictions(uint& lpr, uint spr);
 // combines the restrictions for a single index (if I can't have a 1 at spot 10 and I can't have a 2 at spot 10, I can't have a 1 or a 2 at spot 10)
 
 
